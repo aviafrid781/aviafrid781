@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aviafrid
 - 👀 I’m interested in compitative programming.
-- 🌱 I’m currently learning ReactJS, NodeJS
+- 🌱 I’m currently learning ReactJS, NodeJS,MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aviafrid781@gmail.com
 
