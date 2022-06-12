@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aviafrid
-- 👀 I’m interested in compitative programming,React,Nodejs
-- 🌱 I’m currently learning React
+- 👀 I’m interested in compitative programming.
+- 🌱 I’m currently learning ReactJS, NodeJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me aviafrid781@gmail.com
 
 <!---
 aviafrid781/aviafrid781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
