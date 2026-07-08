@@ -6,7 +6,7 @@ I'm passionate about building scalable web applications and solving complex prob
 
 ## 🚀 About Me
 
-- 🔭 Currently working with **Node.js, Express.js, NestJS, Angular & React**
+- 🔭 Currently working with **Node.js, Express.js, NestJS, LLM, Angular & React**
 - 🌱 Exploring **System Design, Microservices, AWS & DevOps**
 - 💡 Interested in **Backend Development, Competitive Programming, and Scalable Architectures**
 - 👯 Open to collaborating on **Open Source & Full Stack Projects**
