@@ -102,22 +102,6 @@ Built enterprise REST APIs, third-party integrations, reporting systems and scal
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aviafrid&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviafrid&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=aviafrid&theme=tokyonight"/>
-</p>
-
----
-
 ## 🏆 Competitive Programming
 
 ✔ 700+ Problems Solved
